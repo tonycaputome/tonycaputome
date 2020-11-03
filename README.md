@@ -1,5 +1,4 @@
 # Hi there! 👋 <img src="https://komarev.com/ghpvc/?username=tonycaputome&label=Profile%20views&color=0e75b6&style=flat" alt="tonycaputome" />
-I was born in 
 
 ## Daily tools and languages
 
