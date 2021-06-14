@@ -15,8 +15,8 @@ I am a self-taught multi-disciplinary frontend developer. Your perfect bridge be
 ### 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Protect a route with a RouteGuard component](https://tonycaputo.me/create-a-routeguard-component-with-hooks)
-- [Manage your state with Context and useReducer](https://tonycaputo.me/manage-your-state-with-context-and-usereducer)
-- [Custom hook to interact with GraphQL](https://tonycaputo.me/create-a-custom-hook-to-interact-with-graphql)
-- [A global custom hook events listener](https://tonycaputo.me/a-global-custom-hook-for-events-listener)
+- [Protect a route with a RouteGuard component](https://tonycaputo.me/articles/create-a-routeguard-component-with-hooks)
+- [Manage your state with Context and useReducer](https://tonycaputo.me/articles/manage-your-state-with-context-and-usereducer)
+- [Custom hook to interact with GraphQL](https://tonycaputo.me/articles/create-a-custom-hook-to-interact-with-graphql)
+- [A global custom hook events listener](https://tonycaputo.me/articles/a-global-custom-hook-for-events-listener)
 <!-- BLOG-POST-LIST:END -->
