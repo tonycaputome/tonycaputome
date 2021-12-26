@@ -1,6 +1,6 @@
 ![Banner](https://github.com/tonycaputome/tonycaputome/blob/main/cover.jpg)
 
-# Hi there! 👋 <img src="https://komarev.com/ghpvc/?username=tonycaputome&label=Profile%20views&color=0e75b6&style=flat" alt="tonycaputome" />
+# Hi there! 👋 
 
 <!-- <p>
 <h3 align="left">Connect with me:</h3>
